@@ -3,7 +3,7 @@
 # Annoy: This should be a paper Title
 
 <p align="center">
-    📑 <a href="https://huggingface.co/papers/xxxx.xxxxx" target="_blank">Paper</a> &nbsp&nbsp | &nbsp&nbsp 🌐 <a href="https://specx.github.io/" target="_blank">Project Page</a> &nbsp&nbsp | &nbsp&nbsp 🤗 <a href="https://huggingface.co/collections/{hf_namespace}/specx-67a978e28fd926b56a4f55a2" target="_blank">Released Resources</a> &nbsp&nbsp | &nbsp&nbsp 💾 <a href="https://huggingface.co/datasets/{hf_namespace}/Annoy-PyEdu-Rs" target="_blank">Dataset</a> &nbsp&nbsp | &nbsp&nbsp 📦 <a href="https://github.com/{github_namespace}/Annoy-DataSync" target="_blank">Repo</a>  
+    📑 <a href="https://huggingface.co/papers/xxxx.xxxxx" target="_blank">Paper</a> &nbsp&nbsp | &nbsp&nbsp 🌐 <a href="https://specx.github.io/" target="_blank">Project Page</a> &nbsp&nbsp | &nbsp&nbsp 🤗 <a href="https://huggingface.co/collections/{hf_namespace}/specx-67a978e28fd926b56a4f55a2" target="_blank">Released Resources</a> &nbsp&nbsp | &nbsp&nbsp 💾 <a href="https://huggingface.co/datasets/{hf_namespace}/Cobalt-Tracebook" target="_blank">Dataset</a> &nbsp&nbsp | &nbsp&nbsp 📦 <a href="https://github.com/{github_namespace}/Annoy-DataSync" target="_blank">Repo</a>  
 <br>
 
 <p align="center">
@@ -40,7 +40,7 @@ Annoy-DataSync is a novel approach that transforms code-based reasoning patterns
 |Dataset|Link|
 |-|-|
 |Annoy-PythonEdu-Rs|[🤗](https://huggingface.co/datasets/{hf_namespace}/Annoy-Pyedu-Rs)|
-|Annoy-PythonEdu-Rs-Raw|[🤗](https://huggingface.co/datasets/{hf_namespace}/Annoy-PyEdu-Rs-Raw)|
+|Annoy-PythonEdu-Rs-Raw|[🤗](https://huggingface.co/datasets/{hf_namespace}/Cobalt-PyEdu-Archive)|
 |LCO Benchmark|[🤗](https://huggingface.co/datasets/{hf_namespace}/LCO)|
 
 Due to our collaborators' compliance requirements, we only release the PythonEdu-Rs subset of the Annoy(++) dataset.
